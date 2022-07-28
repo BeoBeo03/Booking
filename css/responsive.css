@@ -1,0 +1,133 @@
+@media (max-width:46.1875em)
+{
+    .s-full-width {
+        width:100% !important;
+    }
+
+    .row .col-third {
+        margin-bottom: 16px;
+    }
+
+    .col-half {
+        
+        margin-bottom:8px;
+        width:100%;
+
+    }
+
+
+    #header {
+        overflow:hidden;
+    }
+    
+    #header .menu-mobile-btn{
+        display:block;
+    }
+    #header .nav-btn {
+        display:none;
+    }
+
+    #nav {
+        display:block;
+    }
+    
+    #nav > li  {
+        display: block;
+    }
+
+    #nav > li:first-child {
+        display:inline-block;
+    }
+    
+    #nav .subnav {
+        position:initial;
+        background-color:#333;
+        
+    }
+
+    #nav .subnav a {
+        color:#fff;
+        padding:5px 42px;
+    }
+
+    
+
+    #content .location-list {
+        
+        width:100%;
+    }
+    #content .location-img {
+        width:70%;
+        height:220px;
+    }
+
+    #content .location-name {
+        margin-top:32px;
+    }
+    .place-list .col {
+        width:100%;
+    }
+
+    #content {
+        margin-right:8px;
+    }
+    #content .content-section {
+        padding:0 16px;
+
+        
+    }
+
+    #content .tour-section {
+        margin-right:-8px;
+    }
+
+    .contact-content {
+        padding:0;
+        font-weight: 100;
+    }
+
+    .contect-info {
+        margin-bottom: 16px;
+        line-height:1.8;
+    }
+
+    .place-body .place-btn {
+        width:100%;
+        text-align:center;
+    }
+    
+
+    .footer-img .footer-saigon {
+        width:100%;
+        min-height:auto;
+    }
+    .footer-icon {
+        font-size:48px;
+        margin:0 8px;
+    }
+
+    .modal-container {
+        margin:0 14px;
+        box-shadow: 2px 4px 10px rgba(0,0,0,0.5);
+        
+    }
+
+    .modal-amount {
+        float:none;
+    }
+    
+    .modal-phone-number {
+        width:100%;
+        justify-content: space-between;
+    }
+    .modal-help {
+        padding:8px 16px 8px;
+        
+    }
+    .modal-input {
+        margin-bottom:15px;
+    }
+    
+
+    
+}
